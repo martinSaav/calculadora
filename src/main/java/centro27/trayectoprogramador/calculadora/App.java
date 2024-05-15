@@ -1,9 +1,5 @@
-package centro27.trayectoprogramador;
+package centro27.trayectoprogramador.calculadora;
 
-/**
- * Hello world!
- *
- */
 public class App 
 {
     public static void main( String[] args )

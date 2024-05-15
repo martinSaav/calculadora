@@ -1,4 +1,4 @@
-package centro27.trayectoprogramador;
+package centro27.trayectoprogramador.calculadora;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
